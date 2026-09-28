@@ -1,0 +1,25 @@
+# LiveKit & Plugins
+livekit-agents
+livekit-api
+livekit-plugins-openai
+livekit-plugins-noise-cancellation
+livekit-plugins-google
+livekit-plugins-tavus
+
+# Web Framework & CORS
+flask[async]
+flask-cors
+
+# AI & Model APIs
+google-generativeai
+pydantic-ai-slim[openai,mcp]
+
+# Model Context Protocol (MCP)
+mcp
+anyio
+
+# Utilities & Networking
+requests
+aiohttp
+python-dotenv
+tzdata
